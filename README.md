@@ -1,2 +1,2 @@
 # Find7-kernel-source
-LNX.LA.3.5.2.2-01710-8x74.0-1
+LA.BF.1.1.1.c2-00300-8x74.0-1
